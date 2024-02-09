@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "primal-buttress-374510",
+  "private_key_id": "11a5177f3b360fc3c2ed557144e55bd08d49cda4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOvlB5KhdNrEZV\nJpzgJhWmyqoQP02vG65dMuDNmoGdFm1CeM8Q/qLCdltMKyoE4Cd6OjuQMKs4CbBw\nITAGEleJGxGfT5jpkMhq8jrk0G4j6HQ97lSwfiFtDsW7mpIRvtGxbNzLJL9FXKS9\nPSF07q+1olC0kaM+NscZcZ+wueO3lrlahul65Vkb0p+3SCK7qO67WSVsa/a4MJyO\nmOhTzIHtY5yImphe6SUsLTydvRdz/A8oPbDdBz1zp1/tNc+Rudz26pveD3cf0CKz\n2QuZfdKafO+sHMPphwdOtDG660PdbwjoW6/53tLO12xgsJmrO+LG1xYBVFwKw8Tk\nKNZ2D4j9AgMBAAECggEABEYTnZLO5B97oEjzmUhuLM1tUBOU1zLyRMXEtyiQH+wJ\nQuiplvdTLxdwbgPPMZ9CnBczVuxZlyM/GC/dWyBXM2D/gDHRO5iLGaO7gtlAQiMH\nbmNaaQspDW1HxViUD1as5VT6wBOCf+uLSZDd1MZZOzU4tHBv7rus72Zukyek7T85\nddKVN31ETaDFJHqVWkubRhQQzuRLWFBoeCB1BudqK19vkf6U8vZi9au06QVFQbxt\nC4UzTzWSTKzDqVi2vFiFm6ecECxsCCsxMrp21jCmE0Zqwsi6jprQChiWryLI0OAd\neeKY7znTaOIlQOGA+tAKmeR5QtTI3E8UcYLiRopIfwKBgQD+ghQcOuJvJuSVB8NJ\nZT0TG563dQWfujSXKFI5yEWTs/uCVhQ0YgH2p1eq7l21KrZLl5RMC5m48G7ttWIl\nCmAZ894sb8SPDsnmBS2xKonMRIxlGCsdgmykhXNSYGO8VJOpD3IzEET/7795E7XL\nufMSQz6rKsRz+WBpcA4GZ15aewKBgQDP9I8Qmxx3nOAklYS5hjhkuRAv2LxJIdPL\n4vClTtb97pHUKrMN2FyL9WZ30eLGpzj45EGWKrgQ6j4hKi3mrGmlw1888Mlulkqe\nGo+y7OIv+sIR8tBMnGcrB84HSgzkp7EGgCFxXJOvf/ojX+F9O31VdUPlqPfafGj6\nfGC4WUBs5wKBgQCvmM4JQDN0ny/9BxMdM6V05oyWZT4RG2cnl6FLzrr6kqaIIZ3l\nGm3iYUkiXT34PlTySM3/vc09BV5z0b66cbMmlNSIckD6tyhj9NS2tPPIJM98/LTa\nsl8FEDIl9u05Rl1uuoJ/as1AjIjeH9RBkLV9tzmo3WQX5Eo51R9IGc/GuwKBgQCu\nDp5oYcvT+gRJ2rP6rPMqqxN3WMtP0vZ5YvvVAUZFyJdapFq2LfBYXRBlHdHYQEMZ\nX8PdsufZkJZsH+fHeWv8CKkAUvHmk/jkmIrKUieHzTT+3OOoHAjmJWQ3Ca38/LbZ\nIAnd3oTmkhGF5kzQCyj+jGZGJcU+pH8hmVVDN8EK5QKBgHMaw66ke9J8P1GvckOm\nKi53AUFsgUfY1zR1VLby2zVlrZhAOBuawnacoH0uiuGth/QdG4sETege6EK0Gjze\nn6d4le/Hybwq64JlZhmm+UXlOhGN6x50RoE17s5LMPVvmSQwfkeKWwgoWDYhrCNz\nfob/78BpN4x6plWMZyMQsZmc\n-----END PRIVATE KEY-----\n",
+  "client_email": "abhishek07102001@primal-buttress-374510.iam.gserviceaccount.com",
+  "client_id": "108518725999708089373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abhishek07102001%40primal-buttress-374510.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
